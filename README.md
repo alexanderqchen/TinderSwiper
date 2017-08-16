@@ -1,6 +1,7 @@
 # TinderSwiper
 
 
-Technologies
-Python Tinder API:
-https://github.com/charliewolf/pynder
+**Technologies**
+```
+1. Python Tinder API: https://github.com/charliewolf/pynder
+```
